@@ -1,0 +1,7 @@
+# ninja log v5
+0	19	1683674306927195839	CMakeFiles/examples.dir/main.c.o	9f01b9877ab1347f
+0	24	1683674306931195830	CMakeFiles/examples.dir/array.c.o	337ba96df14acde8
+24	40	1683674306947195792	examples	82b2fda04d75a46d
+1	16	1683674330235141510	CMakeFiles/examples.dir/main.c.o	9f01b9877ab1347f
+1	19	1683674330235141510	CMakeFiles/examples.dir/array.c.o	337ba96df14acde8
+19	31	1683674330247141482	examples	82b2fda04d75a46d
